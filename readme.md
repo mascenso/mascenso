@@ -23,6 +23,8 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="">mascenso</a></b>
+  <br/>
+                3rd year CS student @ ISEP
         </samp>
 </h3>
 
